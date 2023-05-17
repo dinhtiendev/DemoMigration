@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xZiTR9/84f6Do92wPpdVGgx/e1I0kYbJozy4FzxnBxU=",
+  "Source": "CustomMigration",
+  "BasePath": "_content/CustomMigration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

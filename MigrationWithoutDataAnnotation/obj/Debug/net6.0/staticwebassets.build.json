@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B+wVQoXMPagrYLz7fZYSr7YFQQeR454n+sxz2GkgPCU=",
+  "Source": "MigrationWithoutDataAnnotation",
+  "BasePath": "_content/MigrationWithoutDataAnnotation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
